@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🌌 The Journey Ahead
 
-<!--
-**TommyVscode/TommyVscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "I see a world in my mirror that is miles ahead of me. While I'm unsure of my current footing, I trust that my dedication will eventually lead me there."
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💭 My Reflections
+I constantly ask myself: *will this pursuit bring a brighter future, or will I miss out on something essential?* This curiosity and drive are what fuel my growth in the world of technology every single day.
+
+---
+
+### 🛠️ What I'm doing right now
+- 🔭 **Exploring:** The vast world of Web Development.
+- 🌱 **Learning:** How to build myself.
+- ⚡ **Goal:** Turning my dedication into meaningful progress.
