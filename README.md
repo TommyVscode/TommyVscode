@@ -10,6 +10,6 @@ I constantly ask myself: *will this pursuit bring a brighter future, or will I m
 ---
 
 ### 🛠️ What I'm doing right now
-- 🔭 **Exploring:** The vast world of Web Development.
+- 🔭 **Exploring:** Mastering **Adaptability** to thrive in any tech evolution.
 - 🌱 **Learning:** How to build myself.
 - ⚡ **Goal:** Turning my dedication into meaningful progress.
